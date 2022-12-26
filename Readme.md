@@ -15,4 +15,9 @@ las arquitecturas se dividen en dos:
      * Las redes que la implementan son, SDD, YOLO, RetinaNet,EfficientDet
    * <b>Basadas en Transformers</b>: Usan los transformers para hacer la detección. Todavía está en investigación.
      * La más común es DERT.
-  
+
+## Segundo notebook.
+El sengundo es un noteboo de un tutorial para hacerle fine-tuning a un modelo de detección, esto se hace por medio de una librería que se llama  tensorflow-zoo
+
+## notebook segmentación
+Es un tutorial para entranar un modelo de segementación, se montó la U-net con keras.
